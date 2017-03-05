@@ -26,3 +26,6 @@ https://github.com/documentcloud
 
 Many thanks to our contributors:
 https://github.com/jashkenas/underscore/contributors
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mattlk13/underscore.svg)](https://greenkeeper.io/)
