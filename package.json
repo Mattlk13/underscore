@@ -19,9 +19,9 @@
   "devDependencies": {
     "coveralls": "^2.11.2",
     "docco": "*",
-    "eslint": "1.10.x",
+    "eslint": "8.31.x",
     "gzip-size-cli": "^1.0.0",
-    "karma": "^0.13.13",
+    "karma": "^6.4.1",
     "karma-qunit": "~2.0.1",
     "karma-sauce-launcher": "^1.2.0",
     "nyc": "^2.1.3",
